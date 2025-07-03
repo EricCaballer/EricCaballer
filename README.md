@@ -10,7 +10,7 @@ My name is Eric, a junior software engineer based in Barcelona.
 
 # Contact
 
-You can find more about me at my [LinkedIn](www.linkedin.com/in/eric-caballer-jimenez)
+You can find more about me at my [LinkedIn](https://www.linkedin.com/in/eric-caballer-jimenez/)
 
 
 <!--
